@@ -1,4 +1,6 @@
-# Mobile Components（源码暂不开放）
+# 源码暂不开放（反正你们也不感兴趣，对吧？）
+
+# Mobile Components
 
 移动端组件库
 
